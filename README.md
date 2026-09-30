@@ -1,8 +1,11 @@
 # CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
 **Student Name**: Dhruvansh Zala
+
 **Student ID**: 041214130
+
 **Course**: CST8915 Full-stack Cloud-native Development
+
 **Semester**: Fall 2026
 
 ---
